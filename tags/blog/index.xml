@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Terminal</title>
-    <link>/tags/blog/</link>
+    <link>//localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi nuevo Blog!</title>
-      <link>/posts/mi-nuevo-blog/</link>
+      <link>//localhost:1313/posts/mi-nuevo-blog/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/mi-nuevo-blog/</guid>
+      <guid>//localhost:1313/posts/mi-nuevo-blog/</guid>
       <description>&lt;h1 id=&#34;blog&#34;&gt;Blog&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;En este blog compartiré mis experiencias en el mundo de la informática y otros temas.&lt;/li&gt;
@@ -33,7 +33,7 @@
 &lt;li&gt;Puedes contactarme &lt;a href=&#34;mailto:alexisroor@gmail.com&#34;&gt;aqui&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/obsidian-blog.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/obsidian-blog.png&#34; alt=&#34;obsidian-blog&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;blog&#34;&gt;Blog&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;En este blog compartiré mis experiencias en el mundo de la informática y otros temas.&lt;/li&gt;
@@ -54,7 +54,7 @@
 &lt;li&gt;Puedes contactarme &lt;a href=&#34;mailto:alexisroor@gmail.com&#34;&gt;aqui&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;/images/obsidian-blog.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/obsidian-blog.png&#34; alt=&#34;obsidian-blog&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     

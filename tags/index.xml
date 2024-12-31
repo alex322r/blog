@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Terminal</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>/tags/blog/</link>
+      <link>//localhost:1313/tags/blog/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blog/</guid>
+      <guid>//localhost:1313/tags/blog/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>/tags/linux/</link>
+      <link>//localhost:1313/tags/linux/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/linux/</guid>
+      <guid>//localhost:1313/tags/linux/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Programacion</title>
-      <link>/tags/programacion/</link>
+      <link>//localhost:1313/tags/programacion/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/programacion/</guid>
+      <guid>//localhost:1313/tags/programacion/</guid>
       <description></description>
       <content></content>
     </item>
