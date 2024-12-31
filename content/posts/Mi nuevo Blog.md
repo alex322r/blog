@@ -23,8 +23,9 @@ tags:
 ### Info
 
 - Estoy usando [HUGO](https://gohugo.io)  para el blog.
-- El tema que estoy usando se llama terminal.
-- Pudes contactarme [aqui](mailto:alexisroor@gmail.com)
+- El tema que ñ estoy usando se llama terminal.
+- Puedes contactarme [aqui](mailto:alexisroor@gmail.com)
+
+![Image Description](/images/obsidian-blog.png)
 
 
-![Scenario 1: Across columns](/image-blog.png)
