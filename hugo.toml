@@ -69,35 +69,31 @@ paginate = 5
   site = ""
 
 [languages]
-  [languages.en]
-    languageName = "English"
-    title = "Terminal"
+  [languages.es]
+    languageName = "Español"
+    title = "Mi blog | Alexis Rodriguez"
 
-    [languages.en.params]
+    [languages.es.params]
       subtitle = "A simple, retro theme for Hugo"
       owner = ""
       keywords = ""
-      copyright = ""
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
+      copyright = "Alexis Rodriguez"
+      menuMore = "Mostrar mas"
+      readMore = "Leer mas"
+      readOtherPosts = "Leer otros posts"
+      newerPosts = "nuevo post"
+      olderPosts = "post anterior"
+      missingContentMessage = "Pagina no encontrada..."
+      missingBackButtonLabel = "Regresar a la pagina de inicio"
+      minuteReadingTime = "minutos de lectura"
       words = "words"
 
-      [languages.en.params.logo]
-        logoText = "Terminal"
+      [languages.es.params.logo]
+        logoText = "Alexis's blog"
         logoHomeLink = "/"
 
-      [languages.en.menu]
+      [languages.es.menu]
         [[languages.en.menu.main]]
           identifier = "about"
-          name = "About"
+          name = "Acerca de"
           url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
