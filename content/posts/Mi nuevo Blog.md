@@ -26,6 +26,6 @@ tags:
 - El tema que ñ estoy usando se llama terminal.
 - Puedes contactarme [aqui](mailto:alexisroor@gmail.com)
 
-![Image Description](/images/obsidian-blog.png)
+![obsidian-blog](/images/obsidian-blog.png)
 
 
