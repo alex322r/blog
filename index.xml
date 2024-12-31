@@ -6,15 +6,55 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Dec 2024 02:07:04 -0500</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>//localhost:1313/posts/test/</link>
-      <pubDate>Sun, 29 Dec 2024 02:07:04 -0500</pubDate>
+      <title>Mi nuevo Blog!</title>
+      <link>//localhost:1313/posts/mi-nuevo-blog/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;#TITULO DE PRUEBA&lt;/p&gt;</description>
-      <content>&lt;p&gt;#TITULO DE PRUEBA&lt;/p&gt;
+      <guid>//localhost:1313/posts/mi-nuevo-blog/</guid>
+      <description>&lt;h1 id=&#34;blog&#34;&gt;Blog&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;En este blog compartiré mis experiencias en el mundo de la informática y otros temas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sobre-mi&#34;&gt;Sobre mi&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mi nombre es Alexis Rodriguez. 😀&lt;/li&gt;
+&lt;li&gt;Estudiante de ingeniería de sistemas. 🖥️&lt;/li&gt;
+&lt;li&gt;Entusiasta sobre redes 🌐 y linux 🐧 , uso Arch btw.&lt;/li&gt;
+&lt;li&gt;Aprendiendo sobre programación web 👨‍💻.&lt;/li&gt;
+&lt;li&gt;Me gustan los videojuegos 🎮️  de estrategia y el anime 🥷.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;info&#34;&gt;Info&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estoy usando &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HUGO&lt;/a&gt;
+  para el blog.&lt;/li&gt;
+&lt;li&gt;El tema que estoy usando se llama terminal.&lt;/li&gt;
+&lt;li&gt;Pudes contactarme &lt;a href=&#34;mailto:alexisroor@gmail.com&#34;&gt;aqui&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/image-blog.png&#34; alt=&#34;Scenario 1: Across columns&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;blog&#34;&gt;Blog&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;En este blog compartiré mis experiencias en el mundo de la informática y otros temas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sobre-mi&#34;&gt;Sobre mi&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mi nombre es Alexis Rodriguez. 😀&lt;/li&gt;
+&lt;li&gt;Estudiante de ingeniería de sistemas. 🖥️&lt;/li&gt;
+&lt;li&gt;Entusiasta sobre redes 🌐 y linux 🐧 , uso Arch btw.&lt;/li&gt;
+&lt;li&gt;Aprendiendo sobre programación web 👨‍💻.&lt;/li&gt;
+&lt;li&gt;Me gustan los videojuegos 🎮️  de estrategia y el anime 🥷.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;info&#34;&gt;Info&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estoy usando &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HUGO&lt;/a&gt;
+  para el blog.&lt;/li&gt;
+&lt;li&gt;El tema que estoy usando se llama terminal.&lt;/li&gt;
+&lt;li&gt;Pudes contactarme &lt;a href=&#34;mailto:alexisroor@gmail.com&#34;&gt;aqui&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/image-blog.png&#34; alt=&#34;Scenario 1: Across columns&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
