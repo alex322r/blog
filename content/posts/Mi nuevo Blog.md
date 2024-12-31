@@ -28,5 +28,3 @@ tags:
 
 ![obsidian-blog](/images/obsidian-blog.png)
 
-
-![819506](/images/819506.png)
