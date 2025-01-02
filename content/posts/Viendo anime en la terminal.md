@@ -1,5 +1,5 @@
 ---
-title: Viendo anime en la terminal
+title: "Fastanime: anime en tu terminal linux"
 date: 1995-01-05
 draft: 
 tags:
@@ -7,6 +7,6 @@ tags:
   - terminal
   - anime
 ---
-# Fastanime: anime en tu terminal linux 
+
 
 ![fastanime](/images/fastanime.png)
